@@ -1,0 +1,94 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940M (ID=0x1347)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.196 seconds
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tobym\Documents\Unity Games\Cluster Truck Re-Creating\ClusterTruck1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.505979 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24e4 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.850963 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.186864 ms (FindLiveObjects: 0.030024 ms CreateObjectMapping: 0.017777 ms MarkObjects: 0.129580 ms  DeleteObjects: 0.008296 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.505780 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.594173 ms (FindLiveObjects: 0.106271 ms CreateObjectMapping: 0.050567 ms MarkObjects: 0.395852 ms  DeleteObjects: 0.036740 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.951903 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.219654 ms (FindLiveObjects: 0.048592 ms CreateObjectMapping: 0.023308 ms MarkObjects: 0.134716 ms  DeleteObjects: 0.010666 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.444248 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.198716 ms (FindLiveObjects: 0.039901 ms CreateObjectMapping: 0.023308 ms MarkObjects: 0.124444 ms  DeleteObjects: 0.009481 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.113879 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.195950 ms (FindLiveObjects: 0.032790 ms CreateObjectMapping: 0.024098 ms MarkObjects: 0.129185 ms  DeleteObjects: 0.009086 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.371952 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.632099 ms (FindLiveObjects: 0.100345 ms CreateObjectMapping: 0.052938 ms MarkObjects: 0.436543 ms  DeleteObjects: 0.039111 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.719212 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.192790 ms (FindLiveObjects: 0.034370 ms CreateObjectMapping: 0.023308 ms MarkObjects: 0.122864 ms  DeleteObjects: 0.011061 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.651953 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.380839 ms (FindLiveObjects: 0.062814 ms CreateObjectMapping: 0.030814 ms MarkObjects: 0.261531 ms  DeleteObjects: 0.024098 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.735014 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.183308 ms (FindLiveObjects: 0.033185 ms CreateObjectMapping: 0.023308 ms MarkObjects: 0.116938 ms  DeleteObjects: 0.008296 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.644150 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.182913 ms (FindLiveObjects: 0.033580 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.115358 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.633088 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.194765 ms (FindLiveObjects: 0.041481 ms CreateObjectMapping: 0.022518 ms MarkObjects: 0.119703 ms  DeleteObjects: 0.009481 ms)
+
